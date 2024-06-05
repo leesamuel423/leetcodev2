@@ -1,20 +1,17 @@
+from operator import xor
 class Solution:
     def addBinary(self, a: str, b: str) -> str:
-        output = ""
-        p1 = len(a) - 1
-        p2 = len(b) - 1
-        carry_over = 0
-        while p1 > -1 or p2 > -1:
-            a_val = int(a[p1]) if p1 >= 0 else 0
-            b_val = int(b[p2]) if p2 >= 0 else 0
-    
-            total = a_val + b_val + carry_over
-    
-            output = str(total % 2) + output
-            carry_over = total // 2
-            p1 -= 1
-            p2 -= 1
-    
-        return "1" + output if carry_over else output
-    
- 
+        # Convert binary strings to integers
+        x, y = int(a, 2), int(b, 2)
+        
+        # While there's a carry
+        while y:
+            # XOR gives the sum without carrying
+            answer = x ^ y
+            # AND and shift left gives the carry
+            carry = (x & y) << 1
+            # Prepare for the next iteration
+            x, y = answer, carry
+        
+        # Convert the result back to a binary string
+        return bin(x)[2:] 
