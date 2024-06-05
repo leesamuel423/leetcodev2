@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/leesamuel423/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0290-word-pattern](https://github.com/leesamuel423/leetcode/tree/master/0290-word-pattern) |
 # String
 |  |
@@ -28,3 +29,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/leesamuel423/leetcode/tree/master/0067-add-binary) |
+# Array
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/leesamuel423/leetcode/tree/master/0128-longest-consecutive-sequence) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/leesamuel423/leetcode/tree/master/0128-longest-consecutive-sequence) |
