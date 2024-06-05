@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/leesamuel423/leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/leesamuel423/leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/leesamuel423/leetcode/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/leesamuel423/leetcode/tree/master/0290-word-pattern) |
 # Trie
 |  |
@@ -37,3 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/leesamuel423/leetcode/tree/master/0128-longest-consecutive-sequence) |
+# Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/leesamuel423/leetcode/tree/master/0125-valid-palindrome) |
