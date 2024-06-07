@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/leesamuel423/leetcode/tree/master/0067-add-binary) |
+| [0397-integer-replacement](https://github.com/leesamuel423/leetcode/tree/master/0397-integer-replacement) |
 # Simulation
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Dynamic Programming
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/leesamuel423/leetcode/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/leesamuel423/leetcode/tree/master/1013-fibonacci-number) |
 # Recursion
 |  |
@@ -60,4 +62,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/leesamuel423/leetcode/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/leesamuel423/leetcode/tree/master/1013-fibonacci-number) |
+# Greedy
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/leesamuel423/leetcode/tree/master/0397-integer-replacement) |
