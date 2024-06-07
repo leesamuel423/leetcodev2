@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/leesamuel423/leetcode/tree/master/0067-add-binary) |
+| [1013-fibonacci-number](https://github.com/leesamuel423/leetcode/tree/master/1013-fibonacci-number) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -48,3 +49,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/leesamuel423/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+# Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/leesamuel423/leetcode/tree/master/1013-fibonacci-number) |
+# Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/leesamuel423/leetcode/tree/master/1013-fibonacci-number) |
+# Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/leesamuel423/leetcode/tree/master/1013-fibonacci-number) |
