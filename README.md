@@ -77,3 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/leesamuel423/leetcode/tree/master/0015-3sum) |
+# Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/leesamuel423/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
