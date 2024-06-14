@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/leesamuel423/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/leesamuel423/leetcode/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/leesamuel423/leetcode/tree/master/0290-word-pattern) |
+| [0878-shifting-letters](https://github.com/leesamuel423/leetcode/tree/master/0878-shifting-letters) |
 # Trie
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/leesamuel423/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/leesamuel423/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/leesamuel423/leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [0878-shifting-letters](https://github.com/leesamuel423/leetcode/tree/master/0878-shifting-letters) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/leesamuel423/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 # Union Find
 |  |
@@ -99,3 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/leesamuel423/leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+# Prefix Sum
+|  |
+| ------- |
+| [0878-shifting-letters](https://github.com/leesamuel423/leetcode/tree/master/0878-shifting-letters) |
