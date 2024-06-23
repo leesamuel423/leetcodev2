@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/leesamuel423/leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0878-shifting-letters](https://github.com/leesamuel423/leetcode/tree/master/0878-shifting-letters) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/leesamuel423/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1909-buildings-with-an-ocean-view](https://github.com/leesamuel423/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 | [2442-number-of-arithmetic-triplets](https://github.com/leesamuel423/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 # Union Find
 |  |
@@ -102,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/leesamuel423/leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [1909-buildings-with-an-ocean-view](https://github.com/leesamuel423/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 # Monotonic Stack
 |  |
 | ------- |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/leesamuel423/leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [1909-buildings-with-an-ocean-view](https://github.com/leesamuel423/leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 # Prefix Sum
 |  |
 | ------- |
