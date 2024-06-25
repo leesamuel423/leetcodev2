@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/leesamuel423/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/leesamuel423/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/leesamuel423/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/leesamuel423/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/leesamuel423/leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0878-shifting-letters](https://github.com/leesamuel423/leetcode/tree/master/0878-shifting-letters) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/leesamuel423/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -121,3 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/leesamuel423/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/leesamuel423/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
