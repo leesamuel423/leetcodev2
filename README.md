@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/leesamuel423/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/leesamuel423/leetcode/tree/master/0141-linked-list-cycle) |
 | [0290-word-pattern](https://github.com/leesamuel423/leetcode/tree/master/0290-word-pattern) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/leesamuel423/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/leesamuel423/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2442-number-of-arithmetic-triplets](https://github.com/leesamuel423/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 # String
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/leesamuel423/leetcode/tree/master/0015-3sum) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/leesamuel423/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/leesamuel423/leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 # Linked List
 |  |
@@ -126,3 +128,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/leesamuel423/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+# Tree
+|  |
+| ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/leesamuel423/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+# Depth-First Search
+|  |
+| ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/leesamuel423/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/leesamuel423/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+# Binary Tree
+|  |
+| ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/leesamuel423/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
