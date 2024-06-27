@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/leesamuel423/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/leesamuel423/leetcode/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/leesamuel423/leetcode/tree/master/0290-word-pattern) |
+| [0408-valid-word-abbreviation](https://github.com/leesamuel423/leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0878-shifting-letters](https://github.com/leesamuel423/leetcode/tree/master/0878-shifting-letters) |
 # Trie
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/leesamuel423/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/leesamuel423/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/leesamuel423/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0408-valid-word-abbreviation](https://github.com/leesamuel423/leetcode/tree/master/0408-valid-word-abbreviation) |
 | [2442-number-of-arithmetic-triplets](https://github.com/leesamuel423/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 # Binary Search
 |  |
