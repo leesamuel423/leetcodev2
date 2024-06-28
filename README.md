@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/leesamuel423/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/leesamuel423/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/leesamuel423/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/leesamuel423/leetcode/tree/master/0141-linked-list-cycle) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/leesamuel423/leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/leesamuel423/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/leesamuel423/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/leesamuel423/leetcode/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/leesamuel423/leetcode/tree/master/0290-word-pattern) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/leesamuel423/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/leesamuel423/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/leesamuel423/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/leesamuel423/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/leesamuel423/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/leesamuel423/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/leesamuel423/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/leesamuel423/leetcode/tree/master/0049-group-anagrams) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/leesamuel423/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/leesamuel423/leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 # Linked List
