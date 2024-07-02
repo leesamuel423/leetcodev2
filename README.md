@@ -150,3 +150,15 @@
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/leesamuel423/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [2406-decode-the-message](https://github.com/leesamuel423/leetcode/tree/master/2406-decode-the-message) |
+## String
+|  |
+| ------- |
+| [2406-decode-the-message](https://github.com/leesamuel423/leetcode/tree/master/2406-decode-the-message) |
+<!---LeetCode Topics End-->
