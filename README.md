@@ -156,9 +156,15 @@
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/leesamuel423/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2406-decode-the-message](https://github.com/leesamuel423/leetcode/tree/master/2406-decode-the-message) |
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/leesamuel423/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2406-decode-the-message](https://github.com/leesamuel423/leetcode/tree/master/2406-decode-the-message) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/leesamuel423/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
