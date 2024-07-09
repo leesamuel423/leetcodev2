@@ -177,6 +177,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/leesamuel423/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/leesamuel423/leetcode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -218,4 +219,12 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/leesamuel423/leetcode/tree/master/0283-move-zeroes) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/leesamuel423/leetcode/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/leesamuel423/leetcode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
