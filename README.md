@@ -227,4 +227,16 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/leesamuel423/leetcode/tree/master/0110-balanced-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/leesamuel423/leetcode/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/leesamuel423/leetcode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/leesamuel423/leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
