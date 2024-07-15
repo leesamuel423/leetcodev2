@@ -239,4 +239,8 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/leesamuel423/leetcode/tree/master/0969-number-of-recent-calls) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/leesamuel423/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
