@@ -1,4 +1,4 @@
-# leetcode (algo-grind2.0 b/c i'm lazy)
+# leetcode
 
 # Hash Table
 |  |
