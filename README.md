@@ -249,4 +249,12 @@
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/leesamuel423/leetcode/tree/master/0871-keys-and-rooms) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/leesamuel423/leetcode/tree/master/2645-pass-the-pillow) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/leesamuel423/leetcode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
