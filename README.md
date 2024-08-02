@@ -158,6 +158,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/leesamuel423/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0347-top-k-frequent-elements](https://github.com/leesamuel423/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0797-rabbits-in-forest](https://github.com/leesamuel423/leetcode/tree/master/0797-rabbits-in-forest) |
 | [2406-decode-the-message](https://github.com/leesamuel423/leetcode/tree/master/2406-decode-the-message) |
 ## String
 |  |
@@ -174,6 +175,7 @@
 | [0200-number-of-islands](https://github.com/leesamuel423/leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/leesamuel423/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/leesamuel423/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0797-rabbits-in-forest](https://github.com/leesamuel423/leetcode/tree/master/0797-rabbits-in-forest) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -256,6 +258,7 @@
 ## Math
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/leesamuel423/leetcode/tree/master/0797-rabbits-in-forest) |
 | [2645-pass-the-pillow](https://github.com/leesamuel423/leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -265,4 +268,8 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/leesamuel423/leetcode/tree/master/0744-network-delay-time) |
+## Greedy
+|  |
+| ------- |
+| [0797-rabbits-in-forest](https://github.com/leesamuel423/leetcode/tree/master/0797-rabbits-in-forest) |
 <!---LeetCode Topics End-->
