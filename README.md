@@ -258,6 +258,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/leesamuel423/leetcode/tree/master/0070-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/leesamuel423/leetcode/tree/master/0797-rabbits-in-forest) |
 | [2645-pass-the-pillow](https://github.com/leesamuel423/leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
@@ -272,4 +273,12 @@
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/leesamuel423/leetcode/tree/master/0797-rabbits-in-forest) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/leesamuel423/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/leesamuel423/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
