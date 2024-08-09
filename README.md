@@ -169,9 +169,11 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/leesamuel423/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/leesamuel423/leetcode/tree/master/0078-subsets) |
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/leesamuel423/leetcode/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/leesamuel423/leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/leesamuel423/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/leesamuel423/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -281,4 +283,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/leesamuel423/leetcode/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/leesamuel423/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
