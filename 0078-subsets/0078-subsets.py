@@ -1,19 +1,18 @@
 class Solution:
-    def subsets(self, nums: List[int]) -> List[List[int]]:
+    def subsets(self, nums):
 
-        def dfs(i, nums, slate, output):
+        def dfs(i, slate, output):
             if i == len(nums):
                 output.append(slate[:])
                 return
-                
-            
-            dfs(i + 1, nums, slate, output)
+    
+            dfs(i + 1, slate, output)
             slate.append(nums[i])
-            dfs(i + 1, nums, slate, output)
+            dfs(i + 1, slate, output)
             slate.pop()
         
         output = []
-        dfs(0, nums, [], output)
+        dfs(0, [], output)
         return output
 
         
