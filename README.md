@@ -159,6 +159,7 @@
 | [0001-two-sum](https://github.com/leesamuel423/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/leesamuel423/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/leesamuel423/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/leesamuel423/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/leesamuel423/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0797-rabbits-in-forest](https://github.com/leesamuel423/leetcode/tree/master/0797-rabbits-in-forest) |
 | [2406-decode-the-message](https://github.com/leesamuel423/leetcode/tree/master/2406-decode-the-message) |
@@ -179,6 +180,7 @@
 | [0001-two-sum](https://github.com/leesamuel423/leetcode/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/leesamuel423/leetcode/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/leesamuel423/leetcode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/leesamuel423/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/leesamuel423/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/leesamuel423/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0797-rabbits-in-forest](https://github.com/leesamuel423/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -210,6 +212,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/leesamuel423/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/leesamuel423/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
