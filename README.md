@@ -179,6 +179,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/leesamuel423/leetcode/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/leesamuel423/leetcode/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/leesamuel423/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/leesamuel423/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/leesamuel423/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/leesamuel423/leetcode/tree/master/0283-move-zeroes) |
@@ -286,6 +287,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/leesamuel423/leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/leesamuel423/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
